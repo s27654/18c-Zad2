@@ -1,0 +1,14 @@
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\bin\Debug\net8.0\ContainerApp.exe
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\bin\Debug\net8.0\ContainerApp.deps.json
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\bin\Debug\net8.0\ContainerApp.runtimeconfig.json
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\bin\Debug\net8.0\ContainerApp.dll
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\bin\Debug\net8.0\ContainerApp.pdb
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ContainerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ContainerApp.AssemblyInfoInputs.cache
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ContainerApp.AssemblyInfo.cs
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ContainerApp.csproj.CoreCompileInputs.cache
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ContainerApp.dll
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\refint\ContainerApp.dll
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ContainerApp.pdb
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ContainerApp.genruntimeconfig.cache
+C:\Users\herbi\Desktop\Git\18c-Zad2\ContainerApp\ContainerApp\obj\Debug\net8.0\ref\ContainerApp.dll
